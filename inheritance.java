@@ -19,7 +19,7 @@ public class inheritance {
 
 	public static void main(String[] args) {
 		
-		child obj = new child();  // creating new object and allocating memory.
+		child obj = new child();  // creating new object of the child class so that we can extract its extended feature and after that we are allocating memory.
 		obj.func();
 		obj.method();
 		
